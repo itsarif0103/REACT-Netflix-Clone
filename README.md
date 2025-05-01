@@ -55,11 +55,9 @@ The application is fully optimized for mobile devices, ensuring a seamless watch
 | ---------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | ![Mobile login Page](./src/screenshots/responsive/mobile-login.png) | ![Mobile Dashboard Page](./src/screenshots/responsive/mobile-dashboard.png) | ![Mobile signup Page](./src/screenshots/responsive/mobile-signup.png) |
 
-| **Dashboard**                                                     | **Footer**                                                             |  **Video**
+| **Dashboard**                                                     | **Video**                                                             |  **Footer**
 | -------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------- |
 | ![Mobile Dashboard Page](./src/screenshots/responsive/mobile-dashboard.png) | ![Mobile Video Page](./src/screenshots/responsive/mobile-video.png) | ![Mobile Footer Page](./src/screenshots/responsive/mobile-footer.png) |
-
----
 
 ---
 
